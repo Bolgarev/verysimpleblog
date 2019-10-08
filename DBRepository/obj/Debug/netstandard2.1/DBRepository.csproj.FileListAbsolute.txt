@@ -1,0 +1,11 @@
+C:\VerySimpleBlog\DBRepository\bin\Debug\netstandard2.1\DBRepository.deps.json
+C:\VerySimpleBlog\DBRepository\bin\Debug\netstandard2.1\DBRepository.dll
+C:\VerySimpleBlog\DBRepository\bin\Debug\netstandard2.1\DBRepository.pdb
+C:\VerySimpleBlog\DBRepository\bin\Debug\netstandard2.1\Models.dll
+C:\VerySimpleBlog\DBRepository\bin\Debug\netstandard2.1\Models.pdb
+C:\VerySimpleBlog\DBRepository\obj\Debug\netstandard2.1\DBRepository.csprojAssemblyReference.cache
+C:\VerySimpleBlog\DBRepository\obj\Debug\netstandard2.1\DBRepository.AssemblyInfoInputs.cache
+C:\VerySimpleBlog\DBRepository\obj\Debug\netstandard2.1\DBRepository.AssemblyInfo.cs
+C:\VerySimpleBlog\DBRepository\obj\Debug\netstandard2.1\DBRepository.csproj.CopyComplete
+C:\VerySimpleBlog\DBRepository\obj\Debug\netstandard2.1\DBRepository.dll
+C:\VerySimpleBlog\DBRepository\obj\Debug\netstandard2.1\DBRepository.pdb

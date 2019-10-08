@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29326.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VerySimpleBlog", "VerySimpleBlog.csproj", "{06FAC11C-0E76-4C3F-BA92-B6C7B530BE66}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DBRepository", "..\DBRepository\DBRepository.csproj", "{33B4CB35-291A-451B-906A-9D8A2191201D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Models", "..\Models\Models.csproj", "{11994205-5C65-4E66-93CE-942F6C9CDA54}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06FAC11C-0E76-4C3F-BA92-B6C7B530BE66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06FAC11C-0E76-4C3F-BA92-B6C7B530BE66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06FAC11C-0E76-4C3F-BA92-B6C7B530BE66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06FAC11C-0E76-4C3F-BA92-B6C7B530BE66}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33B4CB35-291A-451B-906A-9D8A2191201D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33B4CB35-291A-451B-906A-9D8A2191201D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33B4CB35-291A-451B-906A-9D8A2191201D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33B4CB35-291A-451B-906A-9D8A2191201D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11994205-5C65-4E66-93CE-942F6C9CDA54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11994205-5C65-4E66-93CE-942F6C9CDA54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11994205-5C65-4E66-93CE-942F6C9CDA54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11994205-5C65-4E66-93CE-942F6C9CDA54}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {12511BAB-3EDE-4BB5-BAD4-B7EA42FE0707}
+	EndGlobalSection
+EndGlobal
