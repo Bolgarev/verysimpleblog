@@ -39,7 +39,8 @@ namespace VerySimpleBlog
             }
 
             app.UseStaticFiles();
-            app.UseMvc();
+            app.UseMvc(routes => routes.MapRoute(name: "DefaultApi",
+                                template: "api/{controller}/{action}"));
         }
     }
 }
