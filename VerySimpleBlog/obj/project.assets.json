@@ -8828,11 +8828,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\VerySimpleBlog\\VerySimpleBlog\\VerySimpleBlog.csproj",
+      "projectUniqueName": "C:\\vsb\\VerySimpleBlog\\VerySimpleBlog.csproj",
       "projectName": "VerySimpleBlog",
-      "projectPath": "C:\\VerySimpleBlog\\VerySimpleBlog\\VerySimpleBlog.csproj",
+      "projectPath": "C:\\vsb\\VerySimpleBlog\\VerySimpleBlog.csproj",
       "packagesPath": "C:\\Users\\Борис Болгарев\\.nuget\\packages\\",
-      "outputPath": "C:\\VerySimpleBlog\\VerySimpleBlog\\obj\\",
+      "outputPath": "C:\\vsb\\VerySimpleBlog\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -8851,11 +8851,11 @@
       "frameworks": {
         "netcoreapp3.0": {
           "projectReferences": {
-            "C:\\VerySimpleBlog\\DBRepository\\DBRepository.csproj": {
-              "projectPath": "C:\\VerySimpleBlog\\DBRepository\\DBRepository.csproj"
+            "C:\\vsb\\DBRepository\\DBRepository.csproj": {
+              "projectPath": "C:\\vsb\\DBRepository\\DBRepository.csproj"
             },
-            "C:\\VerySimpleBlog\\Models\\Models.csproj": {
-              "projectPath": "C:\\VerySimpleBlog\\Models\\Models.csproj"
+            "C:\\vsb\\Models\\Models.csproj": {
+              "projectPath": "C:\\vsb\\Models\\Models.csproj"
             }
           }
         }

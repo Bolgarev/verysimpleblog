@@ -8591,11 +8591,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\VerySimpleBlog\\DBRepository\\DBRepository.csproj",
+      "projectUniqueName": "C:\\vsb\\DBRepository\\DBRepository.csproj",
       "projectName": "DBRepository",
-      "projectPath": "C:\\VerySimpleBlog\\DBRepository\\DBRepository.csproj",
+      "projectPath": "C:\\vsb\\DBRepository\\DBRepository.csproj",
       "packagesPath": "C:\\Users\\Борис Болгарев\\.nuget\\packages\\",
-      "outputPath": "C:\\VerySimpleBlog\\DBRepository\\obj\\",
+      "outputPath": "C:\\vsb\\DBRepository\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -8614,8 +8614,8 @@
       "frameworks": {
         "netstandard2.1": {
           "projectReferences": {
-            "C:\\VerySimpleBlog\\Models\\Models.csproj": {
-              "projectPath": "C:\\VerySimpleBlog\\Models\\Models.csproj"
+            "C:\\vsb\\Models\\Models.csproj": {
+              "projectPath": "C:\\vsb\\Models\\Models.csproj"
             }
           }
         }

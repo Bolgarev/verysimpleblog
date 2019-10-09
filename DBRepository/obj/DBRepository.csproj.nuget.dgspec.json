@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\VerySimpleBlog\\DBRepository\\DBRepository.csproj": {}
+    "C:\\vsb\\DBRepository\\DBRepository.csproj": {}
   },
   "projects": {
-    "C:\\VerySimpleBlog\\DBRepository\\DBRepository.csproj": {
+    "C:\\vsb\\DBRepository\\DBRepository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\VerySimpleBlog\\DBRepository\\DBRepository.csproj",
+        "projectUniqueName": "C:\\vsb\\DBRepository\\DBRepository.csproj",
         "projectName": "DBRepository",
-        "projectPath": "C:\\VerySimpleBlog\\DBRepository\\DBRepository.csproj",
+        "projectPath": "C:\\vsb\\DBRepository\\DBRepository.csproj",
         "packagesPath": "C:\\Users\\Борис Болгарев\\.nuget\\packages\\",
-        "outputPath": "C:\\VerySimpleBlog\\DBRepository\\obj\\",
+        "outputPath": "C:\\vsb\\DBRepository\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -30,8 +30,8 @@
         "frameworks": {
           "netstandard2.1": {
             "projectReferences": {
-              "C:\\VerySimpleBlog\\Models\\Models.csproj": {
-                "projectPath": "C:\\VerySimpleBlog\\Models\\Models.csproj"
+              "C:\\vsb\\Models\\Models.csproj": {
+                "projectPath": "C:\\vsb\\Models\\Models.csproj"
               }
             }
           }
@@ -77,14 +77,14 @@
         }
       }
     },
-    "C:\\VerySimpleBlog\\Models\\Models.csproj": {
+    "C:\\vsb\\Models\\Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\VerySimpleBlog\\Models\\Models.csproj",
+        "projectUniqueName": "C:\\vsb\\Models\\Models.csproj",
         "projectName": "Models",
-        "projectPath": "C:\\VerySimpleBlog\\Models\\Models.csproj",
+        "projectPath": "C:\\vsb\\Models\\Models.csproj",
         "packagesPath": "C:\\Users\\Борис Болгарев\\.nuget\\packages\\",
-        "outputPath": "C:\\VerySimpleBlog\\Models\\obj\\",
+        "outputPath": "C:\\vsb\\Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

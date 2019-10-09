@@ -5,3 +5,10 @@ C:\VerySimpleBlog\Models\obj\Debug\netstandard2.0\Models.AssemblyInfoInputs.cach
 C:\VerySimpleBlog\Models\obj\Debug\netstandard2.0\Models.AssemblyInfo.cs
 C:\VerySimpleBlog\Models\obj\Debug\netstandard2.0\Models.dll
 C:\VerySimpleBlog\Models\obj\Debug\netstandard2.0\Models.pdb
+C:\vsb\Models\bin\Debug\netstandard2.0\Models.deps.json
+C:\vsb\Models\bin\Debug\netstandard2.0\Models.dll
+C:\vsb\Models\bin\Debug\netstandard2.0\Models.pdb
+C:\vsb\Models\obj\Debug\netstandard2.0\Models.AssemblyInfoInputs.cache
+C:\vsb\Models\obj\Debug\netstandard2.0\Models.AssemblyInfo.cs
+C:\vsb\Models\obj\Debug\netstandard2.0\Models.dll
+C:\vsb\Models\obj\Debug\netstandard2.0\Models.pdb

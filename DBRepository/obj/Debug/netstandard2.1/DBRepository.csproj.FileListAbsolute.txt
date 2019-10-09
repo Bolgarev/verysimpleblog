@@ -9,3 +9,14 @@ C:\VerySimpleBlog\DBRepository\obj\Debug\netstandard2.1\DBRepository.AssemblyInf
 C:\VerySimpleBlog\DBRepository\obj\Debug\netstandard2.1\DBRepository.csproj.CopyComplete
 C:\VerySimpleBlog\DBRepository\obj\Debug\netstandard2.1\DBRepository.dll
 C:\VerySimpleBlog\DBRepository\obj\Debug\netstandard2.1\DBRepository.pdb
+C:\vsb\DBRepository\bin\Debug\netstandard2.1\DBRepository.deps.json
+C:\vsb\DBRepository\bin\Debug\netstandard2.1\DBRepository.dll
+C:\vsb\DBRepository\bin\Debug\netstandard2.1\DBRepository.pdb
+C:\vsb\DBRepository\bin\Debug\netstandard2.1\Models.dll
+C:\vsb\DBRepository\bin\Debug\netstandard2.1\Models.pdb
+C:\vsb\DBRepository\obj\Debug\netstandard2.1\DBRepository.csprojAssemblyReference.cache
+C:\vsb\DBRepository\obj\Debug\netstandard2.1\DBRepository.AssemblyInfoInputs.cache
+C:\vsb\DBRepository\obj\Debug\netstandard2.1\DBRepository.AssemblyInfo.cs
+C:\vsb\DBRepository\obj\Debug\netstandard2.1\DBRepository.csproj.CopyComplete
+C:\vsb\DBRepository\obj\Debug\netstandard2.1\DBRepository.dll
+C:\vsb\DBRepository\obj\Debug\netstandard2.1\DBRepository.pdb
