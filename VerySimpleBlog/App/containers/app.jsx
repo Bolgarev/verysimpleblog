@@ -1,22 +1,17 @@
 ﻿import React from 'react';
 import ReactDOM from 'react-dom';
-import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
+import { BrowserRouter as Router } from 'react-router-dom';
+import Routing from '../routes/route.jsx';
 import Header from './header/header.jsx';
-import About from './about/about.jsx';
-import Blog from './blog/blog.jsx';
 
 export default class App extends React.Component {
+
     render() {
         return (
-            <Router>
+            <Router basename="VerySimpleBlog">
                 <div>
                     <Header />
-                    <main>
-                        <Switch>
-                            <Route path="/about" component={About} />
-                            <Route path="/" component={Blog} />
-                        </Switch>
-                    </main>
+                    <Routing />
                 </div>
             </Router>
         );

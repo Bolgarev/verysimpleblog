@@ -1,8 +1,14 @@
-﻿import React from 'react' //1
-import { render } from 'react-dom' //2
-import App from './containers/app.jsx' //3
+﻿import React from 'react'
+import { render } from 'react-dom'
+import { Provider } from 'react-redux'
+import App from './containers/app.jsx'
+import configureStore from './store/configureStore.jsx'
+
+const store = configureStore();
 
 render(
-    <App />,
+    <Provider store={store}>
+        <App />
+    </Provider>,
     document.getElementById('content')
-) //4
+)
